@@ -1,4 +1,4 @@
-### Hola! It's Me Grigary C Antony 👋
+### Hola! It's Me Grigary C Antony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## I'm a Student at Sahrdaya CET
 - 🔭 I’m currently working on Flutter App Development
