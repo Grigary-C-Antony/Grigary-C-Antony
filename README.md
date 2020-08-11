@@ -3,9 +3,9 @@
 ## I'm a Student at Sahrdaya CET
 - 🔭 I’m currently working on Flutter App Development
 - 🌱 I’m currently learning everything <img src="https://media.giphy.com/media/Lqx1czoPLTQg3I68d1/giphy.gif" width="25px">
-- 👯 I’m looking to collaborate with every one 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play PUBG🤣🤣
+- 👯 I’m looking to collaborate with every one <img src="https://media.giphy.com/media/Lqx1czoPLTQg3I68d1/giphy.gif" width="25px">
+- 🥅 2020 Goals: Contribute more to Open Source projects <img src="https://media.giphy.com/media/Lqx1czoPLTQg3I68d1/giphy.gif" width="25px"> <img src="https://media.giphy.com/media/Lqx1czoPLTQg3I68d1/giphy.gif" width="25px">
+- ⚡ Fun fact: I love to play PUBG <img src="https://media.giphy.com/media/dphDDCpGfzJPq/giphy.gif" width="35px">
 
 ### Connect with me:
 
