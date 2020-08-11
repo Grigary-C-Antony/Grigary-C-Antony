@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://media.giphy.com/media/kyWNFTml48xUubWUq3/giphy.gif" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://media.giphy.com/media/nbQhrNzt8tSqaKwhRt/giphy.gif" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="45px" src="https://media.giphy.com/media/kyWNFTml48xUubWUq3/giphy.gif" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="45px" src="https://media.giphy.com/media/nbQhrNzt8tSqaKwhRt/giphy.gif" />][instagram]
 
 <br />
 
