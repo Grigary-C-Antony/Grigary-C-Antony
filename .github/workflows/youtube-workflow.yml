@@ -13,6 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name:"YOUTUBE"
+          comment_tag_name: "YOUTUBE"
+          max_post_count: 3
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCn2FEU3MnWehBbiGli2Bi9A"
           
