@@ -28,11 +28,16 @@
 - [FASTEST METHOD TO COPY SHARED DRIVE TO OUR DRIVE](https://www.youtube.com/watch?v=qkTE5Lp0ETk)
 - [Noob's Snake Game Coding -Python](https://www.youtube.com/watch?v=ByO2nQRAds4)
 <!-- YOUTUBE:END -->
-
+<details>
+  <summary>:zap: GitHub Recent Activity of Mine </summary>
+    <!--START_SECTION:activity-->  
+</details>
+<br />
 
 <details>
   <summary>:zap: GitHub Stats of Mine </summary>
   <img align = "left" alt ="My GitHub Stats" src="https://github-readme-stats-plum-eight.vercel.app/api?username=Grigary-C-Antony&show_icons=true&hide_border=true"/>
+  
 </details>
 <br />
 
