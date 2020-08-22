@@ -30,7 +30,7 @@
 <!-- YOUTUBE:END -->
 <details>
   <summary>:zap: GitHub Recent Activity of Mine </summary>
-    <!--START_SECTION:activity-->  
+<!--START_SECTION:activity-->  
 1. ❌ Closed PR [#2](https://github.com//Grigary-C-Antony/Dracorig/pull/2) in [Grigary-C-Antony/Dracorig](https://github.com//Grigary-C-Antony/Dracorig)
 2. 💪 Opened PR [#2](https://github.com//Grigary-C-Antony/Dracorig/pull/2) in [Grigary-C-Antony/Dracorig](https://github.com//Grigary-C-Antony/Dracorig)
 <!--END_SECTION:activity-->
