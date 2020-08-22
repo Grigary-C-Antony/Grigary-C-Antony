@@ -24,14 +24,8 @@
 - [FASTEST METHOD TO COPY SHARED DRIVE TO OUR DRIVE](https://www.youtube.com/watch?v=qkTE5Lp0ETk)
 - [Noob's Snake Game Coding -Python](https://www.youtube.com/watch?v=ByO2nQRAds4)
 <!-- YOUTUBE:END -->
-<details>
-  <summary>:zap: GitHub Stats of Mine </summary>
-  <img align = "left" alt ="My GitHub Stats" src="https://github-readme-stats-plum-eight.vercel.app/api?username=Grigary-C-Antony&show_icons=true&hide_border=true"/>
-</details>
-<br />
 
 ---
-
 
 ### Languages and Tools:
 
@@ -43,6 +37,16 @@ C++             ███████░░░░░░░░░░░░░░�
 Markdown        ██░░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
 Java            █░░░░░░░░░░░░░░░░░░░░░░░░   06.90 %
 ```
+<details>
+  <summary>:zap: GitHub Stats of Mine </summary>
+  <img align = "left" alt ="My GitHub Stats" src="https://github-readme-stats-plum-eight.vercel.app/api?username=Grigary-C-Antony&show_icons=true&hide_border=true"/>
+</details>
+<br />
+
+---
+
+
+
 
 [instagram]: https://instagram.com/grigary_dracorig
 [linkedin]: https://www.linkedin.com/in/grigary-c-antony
