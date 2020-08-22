@@ -35,8 +35,6 @@
 2. 💪 Opened PR [#2](https://github.com//Grigary-C-Antony/Dracorig/pull/2) in [Grigary-C-Antony/Dracorig](https://github.com//Grigary-C-Antony/Dracorig)
 <!--END_SECTION:activity-->
 </details>
-<br />
-
 <details>
   <summary>:zap: GitHub Stats of Mine </summary>
   <img align = "left" alt ="My GitHub Stats" src="https://github-readme-stats-plum-eight.vercel.app/api?username=Grigary-C-Antony&show_icons=true&hide_border=true"/>
