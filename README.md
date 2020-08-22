@@ -14,10 +14,11 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="45px" src="https://media.giphy.com/media/nbQhrNzt8tSqaKwhRt/giphy.gif" />][instagram]
 <br />
 
-github-readme-stats-plum-eight.vercel.app
+---
 <img align = "left" alt ="something" src="https://github-readme-stats-plum-eight.vercel.app/api?username=Grigary-C-Antony&show_icons=true&hide_border=true"/>
 
-
+<br />
+---
 ### My Youtube Videos
 
 <!-- YOUTUBE:START -->
