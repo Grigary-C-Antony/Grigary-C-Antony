@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="45px" src="https://media.giphy.com/media/kyWNFTml48xUubWUq3/giphy.gif" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="45px" src="https://github.com/Grigary-C-Antony/Grigary-C-Antony/blob/master/assets/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="45px" src="https://media.giphy.com/media/nbQhrNzt8tSqaKwhRt/giphy.gif" />][instagram]
 
 <br />
