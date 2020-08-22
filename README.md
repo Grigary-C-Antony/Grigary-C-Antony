@@ -12,7 +12,15 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>][twitter]
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>][youtube]
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/>][facebook]
+[<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"/>][dev.to]
+[<img src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white"/>][blogger]
+
+
+
+
 <br>
 //TODO: twitter facebook dev.to youtube blogger
 
@@ -49,9 +57,10 @@ Java            █░░░░░░░░░░░░░░░░░░░░�
 <br />
 
 ---
-
-
-
+[blogger]:https://sites.google.com/view/gristbee
+[twitter]:https://twitter.com/dracorig
+[dev.to]:https://dev.to/grigarycantony
+[facebook]:https://www.facebook.com/grigary.cantony/
 [youtube]: https://www.youtube.com/channel/UCn2FEU3MnWehBbiGli2Bi9A
 [instagram]: https://instagram.com/grigary_dracorig
 [linkedin]: https://www.linkedin.com/in/grigary-c-antony
