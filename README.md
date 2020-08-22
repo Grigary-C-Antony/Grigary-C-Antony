@@ -10,9 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="45px" src="https://github.com/Grigary-C-Antony/Grigary-C-Antony/blob/master/assets/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="Instagram" width="45px" src="https://media.giphy.com/media/nbQhrNzt8tSqaKwhRt/giphy.gif" />][instagram]
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 [<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"/>][youtube]
+<br>
 //TODO: twitter facebook dev.to youtube blogger
 
 <br>
