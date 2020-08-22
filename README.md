@@ -21,11 +21,7 @@
 
 
 
-<br>
-//TODO: twitter facebook dev.to youtube blogger
 
-<br>
----
 
 <br>
 
