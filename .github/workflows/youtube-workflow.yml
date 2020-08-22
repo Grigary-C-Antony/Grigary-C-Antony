@@ -1,8 +1,9 @@
-name: Latest blog post workflow
+name: My Youtube Videos
 on:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme-with-youtube:
@@ -13,6 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name:"YOUTUBE"
-          max_post_count:4
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCn2FEU3MnWehBbiGli2Bi9A"
           
