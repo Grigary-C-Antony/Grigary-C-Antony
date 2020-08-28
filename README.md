@@ -27,6 +27,8 @@
 - [How to Hack Dino Game Simply](https://www.youtube.com/watch?v=nFsajHHCob4)
 - [HOW TO INSTALL PYTHON AND VS CODE](https://www.youtube.com/watch?v=P17SRDwVbkA)
 - [FASTEST METHOD TO COPY SHARED DRIVE TO OUR DRIVE](https://www.youtube.com/watch?v=qkTE5Lp0ETk)
+- [Noob's Snake Game Coding -Python](https://www.youtube.com/watch?v=ByO2nQRAds4)
+- [Independence Day special Flutter App](https://www.youtube.com/watch?v=pVWxUEQahNs)
 <!-- YOUTUBE:END -->
 <br>
 <details>
