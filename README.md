@@ -1,11 +1,11 @@
 ### Hola! It's Me Grigary C Antony <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm a Student at Sahrdaya CET
+## I'm an Engineer at Tata Consultancy Services
 
-- <img src="https://media.giphy.com/media/SsTQdt4iK9UezN178v/giphy.gif" width="35px">  I’m currently working on Flutter App Development
+- <img src="https://media.giphy.com/media/SsTQdt4iK9UezN178v/giphy.gif" width="35px">  I’m currently working on React native app devolopement
 - <img src="https://media.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="25px">  I’m currently learning everything 
 - <img src="https://media.giphy.com/media/Y00c0w6xxtLn067SUi/giphy.gif" width="35px">  I’m looking to collaborate with every one 
-- <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="35px">  2020 Goals: Contribute more to Open Source projects 
+- <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="35px">  2021 Goals: Contribute more to Open Source projects 
 - <img src="https://media.giphy.com/media/3ohc19SFUdIJ0YQcLe/giphy.gif" width="35px">  Fun fact: I love to play PUBG <img src="https://media.giphy.com/media/dphDDCpGfzJPq/giphy.gif" width="35px">
 
 ### Connect with me:
@@ -21,6 +21,8 @@
 ### Languages and Tools
 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /> <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/> 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 ### My Youtube Videos
 <!-- YOUTUBE:START -->
