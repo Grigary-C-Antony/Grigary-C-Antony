@@ -2,11 +2,11 @@
 
 ## I'm an Engineer at Tata Consultancy Services
 
-- <img src="https://media.giphy.com/media/SsTQdt4iK9UezN178v/giphy.gif" width="35px">  I’m currently working on React native app devolopement
-- <img src="https://media.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="25px">  I’m currently learning everything 
-- <img src="https://media.giphy.com/media/Y00c0w6xxtLn067SUi/giphy.gif" width="35px">  I’m looking to collaborate with every one 
-- <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="35px">  2021 Goals: Contribute more to Open Source projects 
-- <img src="https://media.giphy.com/media/3ohc19SFUdIJ0YQcLe/giphy.gif" width="35px">  Fun fact: I love to play PUBG <img src="https://media.giphy.com/media/dphDDCpGfzJPq/giphy.gif" width="35px">
+- <img src="https://media.giphy.com/media/SsTQdt4iK9UezN178v/giphy.gif" width="35px" height="35px">  I’m currently working on React native app devolopement
+- <img src="https://media.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="25px" height="25px">  I’m currently learning everything 
+- <img src="https://media.giphy.com/media/Y00c0w6xxtLn067SUi/giphy.gif" width="35px" height="35px">  I’m looking to collaborate with every one 
+- <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="35px" height="35px">  2021 Goals: Contribute more to Open Source projects 
+- <img src="https://media.giphy.com/media/3ohc19SFUdIJ0YQcLe/giphy.gif" width="35px" height="35px">  Fun fact: I love to play PUBG <img src="https://media.giphy.com/media/dphDDCpGfzJPq/giphy.gif" width="35px">
 
 ### Connect with me:
 
