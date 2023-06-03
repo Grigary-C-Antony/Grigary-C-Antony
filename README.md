@@ -34,7 +34,7 @@
 <br>
 <details>
   <summary>:zap: GitHub Stats of Mine </summary>
-  <img align = "left" alt ="My GitHub Stats" src="https://github-readme-stats-plum-eight.vercel.app/api?username=Grigary-C-Antony&show_icons=true&hide_border=true"/>
+  <img align = "left" alt ="My GitHub Stats" src="https://github-readme-stats-plum-eight.vercel.app/api?username=Grigary-C-Antony&show_icons=true&hide_border=true&theme=radical"/>
   
 </details>
 <br />
