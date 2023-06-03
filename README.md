@@ -26,7 +26,7 @@
 
   <summary>:zap: GitHub Stats of Mine </summary>
   <img align = "left" alt ="My GitHub Stats" src="https://github-readme-stats-plum-eight.vercel.app/api?username=Grigary-C-Antony&show_icons=true&hide_border=true&theme=radical"/>
-  <img align = "left" alt ="My GitHub Stats" src="https://github-readme-stats-plum-eight.vercel.app/api?username=Grigary-C-Antony&show_icons=true&hide_border=true&theme=radical"/>
+  <img align = "left" alt ="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grigary-C-Antony&layout=compact)](https://github.com/Grigary-C-Antony/github-readme-stats"/>
   
   
 
