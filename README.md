@@ -2,10 +2,9 @@
 
 ## I'm an Engineer at Tata Consultancy Services
 
-- <img src="https://media.giphy.com/media/SsTQdt4iK9UezN178v/giphy.gif" width="25px" height="25px">  I’m currently working on React native app devolopement
-- <img src="https://media.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="25px" height="25px">  I’m currently learning everything 
+- <img src="https://media.giphy.com/media/SsTQdt4iK9UezN178v/giphy.gif" width="25px" height="25px">  I’m currently working on BlockChain and Devops
+- <img src="https://media.giphy.com/media/gFK6scW91lwIA6vRXD/giphy.gif" width="25px" height="25px">  I’m currently learning BlockChain and Devops
 - <img src="https://media.giphy.com/media/Y00c0w6xxtLn067SUi/giphy.gif" width="25px" height="25px">  I’m looking to collaborate with every one 
-- <img src="https://media.giphy.com/media/QTlmH8hEoVoi83mdJC/giphy.gif" width="25px" height="25px">  2022 Goals: Contribute more to Open Source projects 
 - <img src="https://media.giphy.com/media/3ohc19SFUdIJ0YQcLe/giphy.gif" width="25px" height="25px">  Fun fact: I love to play PUBG <img src="https://media.giphy.com/media/dphDDCpGfzJPq/giphy.gif" width="25px" height="25px">
 
 ### Connect with me:
